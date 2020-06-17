@@ -9,12 +9,12 @@ cats = [
   {
     name: 'Felix',
     age: 2,
-    enjoys: 'Long naps on the couch, and a warm fire.'
+    enjoy: 'Long naps on the couch, and a warm fire.'
   },
   {
     name: 'Homer',
     age: 12,
-    enjoys: 'Food mostly, really just food.'
+    enjoy: 'Food mostly, really just food.'
   }
 ]
 
